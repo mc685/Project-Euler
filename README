@@ -1,1 +1,5 @@
-This is a test of trying to commit a file to the project.
+This project is being used to store my solutions to the Project Euler questions.
+The questions can be found at: http://projecteuler.net/
+
+The languages used within this project are:
+C++
